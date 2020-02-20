@@ -85,6 +85,11 @@
 
   <dependencies>
 
+    <!-- -->
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-resteasy-jackson</artifactId>
+    </dependency>
     <!-- todo 14 -->
     <dependency>
       <groupId>org.hibernate.javax.persistence</groupId>
