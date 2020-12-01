@@ -14,7 +14,7 @@ mvn install:install-file \
 Execution env.
     jdk 11.0.2
     mvn 3.6.0
-    quarkus 999-SNAPSHOT
+    quarkus 1.9.0.Final
     
  
  The failing test is 
