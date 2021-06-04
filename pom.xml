@@ -44,7 +44,7 @@
 
     <version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>1.0.2.Final</version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>
     <version.org.jboss.spec.javax.jms.jboss-jms-api_2.0_spec>2.0.0.Final</version.org.jboss.spec.javax.jms.jboss-jms-api_2.0_spec>
-    <version.hibernate.validator>6.0.18.Final</version.hibernate.validator>
+    <version.hibernate.validator>6.0.20.Final</version.hibernate.validator>
   </properties>
 
   <dependencyManagement>
